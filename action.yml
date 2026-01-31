@@ -1,5 +1,7 @@
 name: 'TypeScript Action'
-description: 'Waites for some milliseconds, writes an awesome job summary to the workflow output and returns the current date and time.'
+description:
+  'Waites for some milliseconds, writes an awesome job summary to the workflow
+  output and returns the current date and time.'
 author: 'Johnnie Pedersen'
 
 # Add your action's branding here. This will appear on the GitHub Marketplace.
